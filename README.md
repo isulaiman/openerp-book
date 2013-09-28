@@ -1,0 +1,4 @@
+openerp-book
+============
+
+OpenERP Book
